@@ -33,7 +33,8 @@ Para executar este notebook, você precisará:
 2.  **Configurar a Chave de API no Google Colab:** Armazene sua chave de API de forma segura nos "Segredos" do Google Colab com o nome `GOOGLE_API_KEY`. O notebook acessará a chave a partir daí.
 3.  **Executar as células do notebook:** O notebook instalará automaticamente as bibliotecas Python necessárias (google-generativeai, pillow, openpyxl) na primeira célula.
 
-Uma vez que a chave de API estiver configurada nos segredos do Colab, basta executar todas as células em ordem.
+4.   **Uma vez que a chave de API estiver configurada nos segredos do Colab, basta executar todas as células em ordem.**
+5.    **Faça upload** da **Folha de Ponto** (pode usar o modelo: **folha_modelo.jpg**)
 
 ## 5. Prompt Utilizado 
 
