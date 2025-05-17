@@ -31,10 +31,11 @@ Para executar este notebook, você precisará:
 
 1.  **Obter uma Chave de API do Google Generative AI:** Siga as instruções para obter sua chave em [Google AI Studio](https://aistudio.google.com/app/apikey).
 2.  **Configurar a Chave de API no Google Colab:** Armazene sua chave de API de forma segura nos "Segredos" do Google Colab com o nome `GOOGLE_API_KEY`. O notebook acessará a chave a partir daí.
-3.  **Executar as células do notebook:** O notebook instalará automaticamente as bibliotecas Python necessárias (google-generativeai, pillow, openpyxl) na primeira célula.
+3.  **Abra o arquivo Digitalizador_Folha_de_Ponto_Final.ipynb no Colab** - [Digitalizar_Folha_de_Ponto](https://colab.research.google.com/github/jonasmotasimoes/digitaliza_ponto/blob/main/Digitalizador_Folha_de_Ponto_Final.ipynb)
+4.  **Executar as células do notebook:** O notebook instalará automaticamente as bibliotecas Python necessárias (google-generativeai, pillow, openpyxl) na primeira célula.
 
-4.   **Uma vez que a chave de API estiver configurada nos segredos do Colab, basta executar todas as células em ordem.**
-5.    **Faça upload** da **Folha de Ponto** (pode usar o modelo: **folha_modelo.jpg**)
+5.   **Uma vez que a chave de API estiver configurada nos segredos do Colab, basta executar todas as células em ordem.**
+6.    **Faça upload** da **Folha de Ponto** (pode usar o modelo: **folha_modelo.jpg**)
 
 ## 5. Prompt Utilizado 
 
