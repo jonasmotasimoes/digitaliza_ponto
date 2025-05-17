@@ -58,3 +58,6 @@ Para cada linha preenchida na tabela, extraia os seguintes campos:
 
 Este agente pode ser facilmente adaptado para atender a diferentes formatos de formulários. Caso necessário, o prompt pode ser ajustado para se adequar às especificidades do seu projeto. Ele é capaz de extrair informações manuscritas de diversos tipos de documentos e alocá-las automaticamente em uma planilha estruturada, facilitando a digitalização e organização de dados.
 
+## 7. Contribuições
+
+Sinta-se à vontade para sugerir melhorias ou propor modificações. Contribuições são sempre bem-vindas!
